@@ -1,2 +1,5 @@
 # zeppos_mail
-library dealing with mail
+
+## Purpose
+
+Dealing with anything mail
